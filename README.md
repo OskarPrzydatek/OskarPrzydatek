@@ -17,4 +17,4 @@
 - Markdown
 
 ### :mailbox:Contact
--oskar.m.przydatek@gmail.com :postbox:
+- oskar.m.przydatek@gmail.com :postbox:
