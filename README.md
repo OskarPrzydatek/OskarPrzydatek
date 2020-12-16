@@ -15,3 +15,6 @@
 - Webpack 
 - Git :octocat: 
 - Markdown
+
+### :mailbox:Contact
+-oskar.m.przydatek@gmail.com :postbox:
