@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi! I'm Oscar and Welcome to My github profile :smiley: :wave: :sparkles: 
 
-<!--
-**OskarPrzydatek/OskarPrzydatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :information_source:About Me 
+- Student of IT Technology :computer:
+- JavaScript beginner:beginner: (Fallen in love in ReactJs :cupid:) 
+- Fan of Art in every sense of this word :musical_note::art::scream::book::performing_arts:
+- Interested in philosophy :moyai: and astronomy :milky_way:
+- If You need bartender I know how to do it :cocktail:
+- :aries::rat:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+ *As a beginner*
+- JS (ReactJs, Angular a litle :sweat_smile:)
+- Sass
+- Webpack 
+- Git :octocat: 
+- Markdown
