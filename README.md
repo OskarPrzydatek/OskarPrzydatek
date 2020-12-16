@@ -8,7 +8,7 @@
 - If You need bartender I know how to do it :cocktail:
 - :aries::rat:
 
-### Tech Stack
+### :hammer:Tech Stack
  *As a beginner*
 - JS (ReactJs, Angular a litle :sweat_smile:)
 - Sass
