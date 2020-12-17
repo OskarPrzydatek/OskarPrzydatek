@@ -2,7 +2,7 @@
 
 ### :information_source:About Me 
 - Student of IT Technology :computer:
-- JavaScript beginner:beginner: (Fallen in love in ReactJs :cupid:) 
+- JavaScript beginner:beginner: 
 - Fan of Art in every sense of this word :musical_note::art::scream::book::performing_arts:
 - Interested in philosophy :moyai: and astronomy :milky_way:
 - If You need bartender I know how to do it :cocktail:
