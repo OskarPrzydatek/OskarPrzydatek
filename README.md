@@ -10,7 +10,7 @@
 
 ### :hammer:Tech Stack
  *As a beginner*
-- JS (ReactJs, Angular a litle :sweat_smile:)
+- JS (ReactJs, Angular)
 - Sass
 - Webpack 
 - Git :octocat: 
