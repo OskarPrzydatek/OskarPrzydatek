@@ -1,4 +1,5 @@
-# Hi! I'm Oscar and Welcome to My github profile :smiley: :wave: :sparkles: 
+# Hello There :smiley: :wave: :sparkles: 
+### *I'm Oscar and Welcome to My github profile*
 
 ### :information_source: About Me 
 - Student of IT Technology :computer:
